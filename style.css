@@ -1,0 +1,21 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+#team-selection, #upload-area, #word-entry {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: none; /* Initially hidden */
+}
+
+.message {
+    color: green;
+}
+
+.error {
+    color: red;
+}
